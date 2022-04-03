@@ -21,7 +21,3 @@
   <img align="center" alt="CSS 3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
    <img align="center" alt="CSS 3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
 </div>
-
-<hr>
-
-![Snake animation](https://github.com/vinicenter/vinicenter/blob/output/github-contribution-grid-snake.svg)
