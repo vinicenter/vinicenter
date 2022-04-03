@@ -42,4 +42,8 @@
 	<a href="https://t.me/vinicenter" target="_blank">
 		<img src="https://img.shields.io/badge/Telegram-9645F4?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
 	</a>
+	<br><br>
+	<a href="https://vini.center" target="_blank">
+		vini.center
+	</a>
 </div>
