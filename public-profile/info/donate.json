@@ -6,7 +6,7 @@
     "symbol": "BTC",
     "pay": {
       "type": "qrcode",
-      "value": "https://raw.githubusercontent.com/vinicenter/vinicenter/main/public-profile/media/donate/qrcode_bitcoin.png",
+      "value": "https://vini.center/vinicenter/public-profile/media/donate/qrcode_bitcoin.png",
       "content": "13corvPwHkk8xXsyvfsWju4XuBXQZCapoL",
       "instruction": "Scan the QR Code with your Bitcoin wallet or copy the address :)"
     },
@@ -21,7 +21,7 @@
     "symbol": "XNO",
     "pay": {
       "type": "qrcode",
-      "value": "https://raw.githubusercontent.com/vinicenter/vinicenter/main/public-profile/media/donate/qrcode_nano.png",
+      "value": "https://vini.center/vinicenter/public-profile/media/donate/qrcode_nano.png",
       "content": "nano_3f5grmzkgew8e6qk5s6eorz1aq69ie67qpkatfpw3gxikcwufeyzakbjjfwg",
       "instruction": "Scan the QR Code with your Nano wallet or copy the address."
     },
