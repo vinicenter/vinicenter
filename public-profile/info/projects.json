@@ -22,7 +22,7 @@
     "id": "grupomarkha.com.br",
     "headerTitle": "grupomarkha.com.br",
     "title": "Grupo Markha Website",
-    "description": "Project that I have build for Grupo Markha, In this project I developed the website and connected it with a eGesto instance.<br><br>In the website, we can see some informations about Products, News and etc. All the informations is fetched from eGesto database, and can be easily updated.<br><br>I have only developed the website.<br>Images aren't made by me.",
+    "description": "Project that I build for Grupo Markha. In this project I developed the website and connected it with a eGesto instance.<br><br>In the website, we can see some informations about Products, News and etc. All the informations is fetched from eGesto database, and can be easily updated.<br><br>I have only developed the website.<br>Images aren't made by me.",
     "imgUrl": "https://vini.center/vinicenter/public-profile/media/projects/grupomarkha.png",
     "urls": [
       ["primary", "Website", "https://grupomarkha.com.br"]
