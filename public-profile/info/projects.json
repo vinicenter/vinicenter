@@ -1,0 +1,56 @@
+[
+  {
+    "id": "cointoday",
+    "headerTitle": "cointoday.app",
+    "title": "Cointoday",
+    "description": "Cointoday is a software to convert amount between currencies in a simple way.<br><br>It is a easy Frontend to the <a target='_blank' href='https://coinconvert.net'>CoinConvert</a> API.<br>I have no connection to CoinConvert development.<br><br>This project has a github repository, which anyone can contribute or just checkout the source code.",
+    "imgUrl": "https://raw.githubusercontent.com/vinicenter/vinicenter/main/public-profile/media/projects/cointoday.png",
+    "urls": [
+      ["primary", "Webapp", "https://cointoday.app"],
+      ["primary", "Github", "https://github.com/cointoday/cointoday.github.io"]
+    ],
+    "badges": [
+      ["success", "open src"],
+      ["primary", "webapp"],
+      ["secondary", "vue"],
+      ["secondary", "js"],
+      ["secondary", "html"],
+      ["secondary", "css"]
+    ]
+  },
+  {
+    "id": "grupomarkha.com.br",
+    "headerTitle": "grupomarkha.com.br",
+    "title": "Grupo Markha Website",
+    "description": "Project that I have build for Grupo Markha, In this project I developed the website and connected it with a eGesto instance.<br><br>In the website, we can see some informations about Products, News and etc. All the informations is fetched from eGesto database, and can be easily updated.<br><br>I have only developed the website.<br>Images aren't made by me.",
+    "imgUrl": "https://raw.githubusercontent.com/vinicenter/vinicenter/main/public-profile/media/projects/grupomarkha.png",
+    "urls": [
+      ["primary", "Website", "https://grupomarkha.com.br"]
+    ],
+    "badges": [
+      ["danger", "closed src"],
+      ["primary", "website"],
+      ["secondary", "php"],
+      ["secondary", "html"],
+      ["secondary", "css"],
+      ["secondary", "js"]
+    ]
+  },
+  {
+    "id": "egesto",
+    "headerTitle": "eGesto",
+    "title": "eGesto",
+    "description": "eGesto is a system that was build to be used by Grupo Markha inside their operations.<br><br>This software was build to resolve a specific problem, which is price generation, it consider the production cost, the specific taxes and offcource the profit margin to generate the product price.<br>We have added more functions to eGesto too, it can manage the content from a website and save the customers informations for example.<br><br> eGesto will be open sourced in some time.",
+    "imgUrl": "https://raw.githubusercontent.com/vinicenter/vinicenter/main/public-profile/media/projects/egesto.png",
+    "urls": [
+    ],
+    "badges": [
+      ["danger", "closed src"],
+      ["primary", "system"],
+      ["secondary", "php"],
+      ["secondary", "html"],
+      ["secondary", "css"],
+      ["secondary", "js"]
+    ]
+  }
+]

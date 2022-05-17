@@ -1,0 +1,62 @@
+[
+  {
+    "id": "btc",
+    "type": "crypto",
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "pay": {
+      "type": "qrcode",
+      "value": "https://raw.githubusercontent.com/vinicenter/vinicenter/main/public-profile/media/donate/qrcode_bitcoin.png",
+      "content": "13corvPwHkk8xXsyvfsWju4XuBXQZCapoL",
+      "instruction": "Scan the QR Code with your Bitcoin wallet or copy the address :)"
+    },
+    "badges": [
+      ["primary", "crypto"]
+    ]
+  },
+  {
+    "id": "xno",
+    "type": "crypto",
+    "name": "Nano",
+    "symbol": "XNO",
+    "pay": {
+      "type": "qrcode",
+      "value": "https://raw.githubusercontent.com/vinicenter/vinicenter/main/public-profile/media/donate/qrcode_nano.png",
+      "content": "nano_3f5grmzkgew8e6qk5s6eorz1aq69ie67qpkatfpw3gxikcwufeyzakbjjfwg",
+      "instruction": "Scan the QR Code with your Nano wallet or copy the address."
+    },
+    "badges": [
+      ["primary", "crypto"]
+    ]
+  },
+  {
+    "id": "picpay",
+    "type": "fiat",
+    "name": "Picpay",
+    "symbol": "BRL",
+    "pay": {
+      "type": "link",
+      "value": "https://picpay.me/vinicenter",
+      "content": "@vinicenter",
+      "instruction": "Click above to open Picpay donate link or copy the username."
+    },
+    "badges": [
+      ["secondary", "fiat"]
+    ]
+  },
+  {
+    "id": "pix",
+    "type": "fiat",
+    "name": "PIX",
+    "symbol": "BRL",
+    "pay": {
+      "type": "link",
+      "value": "https://nubank.com.br/pagar/8fli3/P9h2shWgiH",
+      "content": "e107a719-f975-47b4-b002-7b7ef2d245ba",
+      "instruction": "Click above to open Pix donate link or copy the random key."
+    },
+    "badges": [
+      ["secondary", "fiat"]
+    ]
+  }
+]
