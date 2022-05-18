@@ -40,7 +40,7 @@
     "id": "egesto",
     "headerTitle": "eGesto",
     "title": "eGesto",
-    "description": "eGesto is a system that was build to be used by Grupo Markha inside their operations.<br><br>This software was build to resolve a specific problem, which is price generation, it consider the production cost, the specific taxes and offcource the profit margin to generate the product price.<br>We have added more functions to eGesto too, it can manage the content from a website and save the customers informations for example.<br><br> eGesto will be open sourced in some time.",
+    "description": "eGesto is a system that was build to be used by Grupo Markha inside their operations.<br><br>This software was build to resolve a specific problem, which is price generation. It consider the production cost, the specific taxes and offcource the profit margin to generate the product price.<br>We have added more functions to eGesto too, it can manage the content from a website and save the customers informations for example.<br><br> eGesto will be open sourced in some time.",
     "imgUrl": "https://vini.center/vinicenter/public-profile/media/projects/egesto.png",
     "urls": [
     ],
