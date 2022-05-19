@@ -22,7 +22,7 @@
     "pay": {
       "type": "qrcode",
       "value": "https://vini.center/vinicenter/public-profile/media/donate/qrcode_nano.png",
-      "content": "nano_3f5grmzkgew8e6qk5s6eorz1aq69ie67qpkatfpw3gxikcwufeyzakbjjfwg",
+      "content": "nano_3fntr5gdec5nmmut7uekbgzzyp7qrqs8zgpf349g3sokscah45t85j7iezpw",
       "instruction": "Scan the QR Code with your Nano wallet or copy the address."
     },
     "badges": [
