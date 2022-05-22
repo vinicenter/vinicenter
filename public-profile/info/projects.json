@@ -22,7 +22,7 @@
     "id": "grupomarkha.com.br",
     "headerTitle": "grupomarkha.com.br",
     "title": "Grupo Markha Website",
-    "description": "Project that I build for Grupo Markha. In this project I developed the website and connected it with a eGesto instance.<br><br>In the website, we can see some informations about Products, News and etc. All the informations is fetched from eGesto database, and can be easily updated.<br><br>I have only developed the website.<br>Images aren't made by me.",
+    "description": "Project that I build for Grupo Markha. In this project I developed the website and connected it with a eGesto instance.<br><br>In the website, we can see some informations about Products, News and etc. All the informations is fetched from the eGesto database, and can be easily updated.<br><br>I have only developed the website (HTML, CSS and JS).<br>Images aren't made by me.",
     "imgUrl": "https://vini.center/vinicenter/public-profile/media/projects/grupomarkha.png",
     "urls": [
       ["primary", "Website", "https://grupomarkha.com.br"]
@@ -40,7 +40,7 @@
     "id": "egesto",
     "headerTitle": "eGesto",
     "title": "eGesto",
-    "description": "eGesto is a system that was build to be used by Grupo Markha inside their operations.<br><br>This software was build to resolve a specific problem, which is price generation. It consider the production cost, the specific taxes and offcource the profit margin to generate the product price.<br>We have added more functions to eGesto too, it can manage the content from a website and save the customers informations for example.<br><br> eGesto will be open sourced in some time.",
+    "description": "eGesto is a system that was build to be used by Grupo Markha inside their operations.<br><br>This software was build to resolve a specific problem, which is price generation. eGesto consider the production cost, the specific taxes and the profit margin to generate the product price.<br>eGesto can manage the content from a website and store the customers informations too.<br><br> This project will be open sourced in some time.",
     "imgUrl": "https://vini.center/vinicenter/public-profile/media/projects/egesto.png",
     "urls": [
     ],
