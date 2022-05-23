@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on <a href="https://vini.center/blog" target="_blank">vini.center/blog</a>
 
-<h3 align="left">connect with me:</h3>
+<h3 align="left">connect with me</h3>
 <div align="left">
 	<a href="https://www.linkedin.com/in/vinicenter/" target="_blank">
 		<img src="https://img.shields.io/badge/LinkedIn-9645F4?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -36,7 +36,7 @@
 	</a>
 </div>
 
-<h3 align="left">skills:</h3>
+<h3 align="left">skills</h3>
 <div align="left">
 	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -69,7 +69,6 @@
 
 <br>
 <h2 align="left">stats</h2>
-<hr/>
 
 <div align="center">
 	<a href="https://github.com/vinicenter">
