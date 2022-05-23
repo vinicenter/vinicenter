@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm vinicenter</h1>
+<h1 align="center">Hi, call me vinicenter</h1>
 <h3 align="center">a developer from brazil</h3>
 
 - 🙂 I'm currently **open to work**
@@ -68,7 +68,8 @@
 </div>
 
 <br>
-<h1 align="center">stats</h1>
+<h2 align="left">stats</h2>
+<hr/>
 
 <div align="center">
 	<a href="https://github.com/vinicenter">
