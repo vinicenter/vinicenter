@@ -10,44 +10,44 @@
         "name": "github",
         "username": "vinicenter",
         "url": "https://github.com/vinicenter",
-        "fontAwesomeIcon": "fab fa-github"
+        "phosphorIcon": "ph-github-logo-fill"
       },
       {
         "name": "linkedin",
         "username": "vinicenter",
         "url": "https://linkedin.com/in/vinicenter/",
-        "fontAwesomeIcon": "fab fa-linkedin"
+        "phosphorIcon": "ph-linkedin-logo-fill"
       },
       {
         "name": "instagram",
         "username": "vinicenter",
         "url": "https://instagram.com/vinicenter",
-        "fontAwesomeIcon": "fab fa-instagram"
+        "phosphorIcon": "ph-instagram-logo-fill"
       },
       {
         "name": "medium",
         "username": "vinicenter",
         "url": "https://vinicenter.medium.com",
-        "fontAwesomeIcon": "fab fa-medium"
+        "phosphorIcon": "ph-medium-logo-fill"
       },
       {
         "name": "twitter",
         "username": "vinicenter",
         "url": "https://twitter.com/vinicenter",
-        "fontAwesomeIcon": "fab fa-twitter"
+        "phosphorIcon": "ph-twitter-logo-fill"
       },
       {
         "name": "telegram",
         "username": "vinicenter",
         "url": "https://t.me/vinicenter",
-        "fontAwesomeIcon": "fab fa-telegram"
+        "phosphorIcon": "ph-telegram-logo-fill"
       }
     ],
     "emails": [
       {
         "type": "contact",
         "email": "ctc@vini.center",
-        "fontAwesomeIcon": "fab fa-envelope"
+        "phosphorIcon": "ph-envelope-simple-open-fill"
       }
     ]
   }

@@ -1,0 +1,9 @@
+{
+  "name": "vinicenter",
+  "scripts": {
+    "preview": "serve -C ."
+  },
+  "dependencies": {
+    "serve": "^13.0.2"
+  }
+}
