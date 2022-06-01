@@ -7,7 +7,7 @@
 
 - 💻 I’m currently working on **freelancer projects**
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Vue and React**
 
 - 📫 You can reach me on **ctc@vini.center**
 
