@@ -6,7 +6,7 @@
     "description": "Cointoday is a software to convert amount between currencies in a simple way.<br><br>It is a easy Frontend to the <a target='_blank' href='https://coinconvert.net'>CoinConvert</a> API.<br>I have no connection to CoinConvert development.<br><br>This project has a github repository, which anyone can contribute or just checkout the source code.",
     "imgUrl": "https://vini.center/vinicenter/public-profile/media/projects/cointoday.png",
     "urls": [
-      ["primary", "Webapp", "https://cointoday.app"],
+      ["primary", "Webapp", "https://cointoday.github.io"],
       ["primary", "Github", "https://github.com/cointoday/cointoday.github.io"]
     ],
     "badges": [
