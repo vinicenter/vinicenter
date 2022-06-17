@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **front-end or back-end projects**
 
-- 💻 I’m currently working on **freelancer projects**
+- 💻 I’m currently working on **freelancing projects**
 
 - 🌱 I’m currently learning **Vue and React**
 
