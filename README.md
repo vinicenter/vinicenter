@@ -99,9 +99,7 @@
 	</a>
 	<a href="https://www.gnu.org/software/bash">
 		<img
-			src="
-				https://img.shields.io/badge/Bash-9645F4?style=flat&logo=GNU Bash&logoColor=white
-			"
+			src="https://img.shields.io/badge/Bash-9645F4?style=flat&logo=GNU Bash&logoColor=white"
 			alt="GNU Bash"
 		/>
 	</a>
