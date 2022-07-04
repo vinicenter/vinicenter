@@ -17,67 +17,144 @@
 
 - 📝 I regularly write articles on <a href="https://vini.center/blog" target="_blank">vini.center/blog</a>
 
-<h3 align="left">connect with me</h3>
-<div align="left">
-	<a href="https://www.linkedin.com/in/vinicenter/" target="_blank">
-		<img src="https://img.shields.io/badge/LinkedIn-9645F4?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+<h3>connect with me</h3>
+<div>
+	<a href="https://www.linkedin.com/in/vinicenter/">
+		<img
+			src="https://img.shields.io/badge/LinkedIn-9645F4?style=flat&logo=linkedin&logoColor=white"
+			alt="linkedin"
+		/>
 	</a>
 	<a href="https://instagram.com/vinicenter" target="_blank">
-		<img src="https://img.shields.io/badge/Instagram-9645F4?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+		<img
+			src="https://img.shields.io/badge/Instagram-9645F4?style=flat&logo=instagram&logoColor=white"
+			alt="instagram"
+		/>
 	</a>
 	<a href="https://vinicenter.medium.com" target="_blank">
-		<img src="https://img.shields.io/badge/Medium-9645F4?style=for-the-badge&logo=medium&logoColor=white" target="_blank">
+		<img
+			src="https://img.shields.io/badge/Medium-9645F4?style=flat&logo=medium&logoColor=white"
+			alt="medium"
+		/>
 	</a>
 	<a href="https://twitter.com/vinicenter" target="_blank">
-		<img src="https://img.shields.io/badge/Twitter-9645F4?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
+		<img
+			src="https://img.shields.io/badge/Twitter-9645F4?style=flat&logo=twitter&logoColor=white"
+			alt="twitter" 
+		/>
 	</a>
 	<a href="https://t.me/vinicenter" target="_blank">
-		<img src="https://img.shields.io/badge/Telegram-9645F4?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
+		<img
+			src="https://img.shields.io/badge/Telegram-9645F4?style=flat&logo=telegram&logoColor=white"
+			alt="telegram"
+		/>
 	</a>
 </div>
 
-<h3 align="left">skills</h3>
-<div align="left">
-	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<hr />
+
+<h3>skills</h3>
+<div>
+	<a href="https://html.spec.whatwg.org/">
+		<img
+			src="https://img.shields.io/badge/HTML5-9645F4?style=flat&logo=html5&logoColor=white"
+			alt="HTML5"
+		/>
 	</a>
-	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+	<a href="https://www.w3.org/Style/CSS/Overview.en.html">
+		<img
+			src="https://img.shields.io/badge/CSS3-9645F4?style=flat&logo=css3&logoColor=white"
+			alt="CSS3"
+		/>
 	</a>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+	<a href="https://javascript.com">
+		<img
+			src="https://img.shields.io/badge/Javascript-9645F4?style=flat&logo=javascript&logoColor=white"
+			alt="Javascript"
+		/>
 	</a>
-	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+	<a href="https://www.typescriptlang.org/">
+		<img
+			src="https://img.shields.io/badge/Typescript-9645F4?style=flat&logo=typescript&logoColor=white"
+			alt="Typescript"
+		/>
 	</a>
-	<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+	<a href="https://nodejs.org/en/">
+		<img
+			src="https://img.shields.io/badge/Node-9645F4?style=flat&logo=node.js&logoColor=white"
+			alt="Node"
+		/>
 	</a>
-	<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-	</a> 
-	<a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+	<a href="https://vuejs.org/">
+		<img
+			src="https://img.shields.io/badge/Vue-9645F4?style=flat&logo=vue.js&logoColor=white"
+			alt="Vue"
+		/>
 	</a>
-	<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+	<a href="https://reactjs.org/">
+		<img
+			src="https://img.shields.io/badge/React-9645F4?style=flat&logo=react&logoColor=white"
+			alt="React"
+		/>
 	</a>
-	<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+	<a href="https://www.gnu.org/software/bash">
+		<img
+			src="
+				https://img.shields.io/badge/Bash-9645F4?style=flat&logo=GNU Bash&logoColor=white
+			"
+			alt="GNU Bash"
+		/>
+	</a>
+	<a href="https://cloud.google.com">
+		<img
+			src="https://img.shields.io/badge/GCP-9645F4?style=flat&logo=google cloud&logoColor=white"
+			alt="Google Cloud Platform"
+		/>
+	</a>
+</div>
+
+<h3>workspace</h3>
+<div>
+	<a href="https://code.visualstudio.com">
+		<img
+			src="https://img.shields.io/badge/VSCode-9645F4?style=flat&logo=Visual Studio Code&logoColor=white"
+			alt="VSCode"
+		/>
+	</a>
+	<a href="https://www.kernel.org">
+		<img
+			src="https://img.shields.io/badge/Linux-9645F4?style=flat&logo=linux&logoColor=white"
+			alt="Linux"
+		/>
+	</a>
+	<a href="https://www.android.com">
+		<img
+			src="https://img.shields.io/badge/Android-9645F4?style=flat&logo=android&logoColor=white"
+			alt="Android"
+		/>
+	</a>
+</div>
+
+<hr />
+
+<h2>stats</h2>
+<div align="center">
+	<a href="https://github.com/vinicenter">
+		<img
+			src="https://github-readme-stats.vercel.app/api?username=vinicenter&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"
+			height="180em"
+		/>
+		<img
+			src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicenter&layout=compact&theme=midnight-purple"
+			height="180em"
+		/>
 	</a>
 </div>
 
 <br>
-<h2 align="left">stats</h2>
-
 <div align="center">
-	<a href="https://github.com/vinicenter">
-		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicenter&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-	</a>
-</div>
-
-<div align="center">
-	<a href="https://vini.center" target="_blank">
+	<a
+		href="https://vini.center">
 		vini.center
 	</a>
 </div>
