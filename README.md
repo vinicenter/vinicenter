@@ -3,8 +3,6 @@
 
 - 💻 I’m currently working at **@multiplierx**
 
-- 👯 I’m looking to collaborate on **front-end or back-end projects**
-
 - 🌱 I’m currently learning **Vue and React**
 
 - 📫 You can reach me on **ctc@vini.center**
