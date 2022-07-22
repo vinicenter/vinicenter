@@ -1,7 +1,7 @@
 <h1 align="center">Hi, call me vinicenter</h1>
 <h3 align="center">a developer from brazil</h3>
 
-- 🙂 I'm currently **open to work**
+- 🙂 I'm currently **working at @multiplierx**
 
 - 👯 I’m looking to collaborate on **front-end or back-end projects**
 
