@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vue and React**
 
-- 📫 You can reach me on **ctc@vini.center**
+- 📫 You can reach me at **ctc@vini.center**
 
 - 📞 There is more ways to reach me on <a href="https://vini.center" target="_blank">vini.center</a>
 
