@@ -3,7 +3,7 @@
 
 - 💻 I’m currently working at **@multiplierx**
 
-- 🌱 I’m currently learning **Vue and React**
+- 🌱 I’m currently studying **Vue**
 
 - 📫 You can reach me at **ctc@vini.center**
 
