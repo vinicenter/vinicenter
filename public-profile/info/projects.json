@@ -4,7 +4,7 @@
     "headerTitle": "cointoday.app",
     "title": "Cointoday",
     "description": "Cointoday is a software to convert amount between currencies in a simple way.<br><br>It is a easy Frontend to the <a target='_blank' href='https://coinconvert.net'>CoinConvert</a> API.<br>I have no connection to CoinConvert development.<br><br>This project has a github repository, which anyone can contribute or just checkout the source code.",
-    "imgUrl": "https://vini.center/vinicenter/public-profile/media/projects/cointoday.png",
+    "imgUrl": "https://github.vini.center/vinicenter/public-profile/media/projects/cointoday.png",
     "urls": [
       ["primary", "Webapp", "https://cointoday.github.io"],
       ["primary", "Github", "https://github.com/cointoday/cointoday.github.io"]
@@ -23,7 +23,7 @@
     "headerTitle": "grupomarkha.com.br",
     "title": "Grupo Markha Website",
     "description": "Project that I build for Grupo Markha. In this project I developed the website and connected it with a eGesto instance.<br><br>In the website, we can see some informations about Products, News and etc. All the informations is fetched from the eGesto database, and can be easily updated.<br><br>I have only developed the website (HTML, CSS and JS).<br>Images aren't made by me.",
-    "imgUrl": "https://vini.center/vinicenter/public-profile/media/projects/grupomarkha.png",
+    "imgUrl": "https://github.vini.center/vinicenter/public-profile/media/projects/grupomarkha.png",
     "urls": [
       ["primary", "Website", "https://grupomarkha.com.br"]
     ],
@@ -41,7 +41,7 @@
     "headerTitle": "eGesto",
     "title": "eGesto",
     "description": "eGesto is a system that was build to be used by Grupo Markha inside their operations.<br><br>This software was build to resolve a specific problem, which is price generation. eGesto consider the production cost, the specific taxes and the profit margin to generate the product price.<br>eGesto can manage the content from a website and store the customers informations too.<br><br> This project will be open sourced in some time.",
-    "imgUrl": "https://vini.center/vinicenter/public-profile/media/projects/egesto.png",
+    "imgUrl": "https://github.vini.center/vinicenter/public-profile/media/projects/egesto.png",
     "urls": [
     ],
     "badges": [
