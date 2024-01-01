@@ -128,27 +128,3 @@
 		/>
 	</a>
 </div>
-
-<hr />
-
-<h2>stats</h2>
-<div align="center">
-	<a href="https://github.com/vinicenter">
-		<img
-			src="https://github-readme-stats.vercel.app/api?username=vinicenter&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"
-			height="180em"
-		/>
-		<img
-			src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicenter&layout=compact&theme=midnight-purple"
-			height="180em"
-		/>
-	</a>
-</div>
-
-<br>
-<div align="center">
-	<a
-		href="https://vini.center">
-		vini.center
-	</a>
-</div>
