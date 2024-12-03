@@ -1,5 +1,4 @@
 <h1 align="center">Hi, call me vinicenter</h1>
-<h3 align="center">a developer from brazil</h3>
 
 - 💻 I’m currently working at **@multiplierx**
 
